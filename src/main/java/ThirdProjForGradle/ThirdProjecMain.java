@@ -6,7 +6,7 @@ public class ThirdProjecMain {
 		// TODO Auto-generated method stub
 		System.out.println("Checking the gradle Build to see whether it s working for PollSCM and webhook");
 		System.out.println("Completed gradle build for Poll SCM");
-		System.out.println("Completed gradle build for Web Hook");
+		System.out.println("Completed gradle build for Web Hookagain");
 	}
 
 }
