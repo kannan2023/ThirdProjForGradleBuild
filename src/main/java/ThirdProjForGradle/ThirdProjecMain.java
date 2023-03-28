@@ -7,6 +7,8 @@ public class ThirdProjecMain {
 		System.out.println("Checking the gradle Build to see whether it s working for PollSCM and webhook");
 		System.out.println("Completed gradle build for Poll SCM");
 		System.out.println("Completed gradle build for Web Hookagain");
+		System.out.println("Completed gradle build for Web Hookagain and again");
+
 	}
 
 }
